@@ -1,3 +1,5 @@
+##### This is the first Drupel site I have set up, just used for practice
+
 
 CONTENTS OF THIS FILE
 ---------------------
